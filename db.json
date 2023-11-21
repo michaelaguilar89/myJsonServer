@@ -10,5 +10,33 @@
             "title":"Angular",
             "description":"Probando angular"
         }
+    ],
+    "products":[
+        {
+            "id":1000,
+            "name":"Coca Cola",
+            "description":"Coca Cola Original 3lts",
+            "price":2000,
+            "photo":"https://lacolonia.vtexassets.com/arquivos/ids/195869-800-800?v=637141738135200000&width=800&height=800&aspect=true"
+
+            
+        },
+        {
+            "id":1001,
+            "name":"Fanta Roja",
+            "description":"Fanta Roja 3lts",
+            "price":2000,
+            "photo":"https://pedihost.co.cr/wp-content/uploads/2021/01/7441003522152.png"
+            
+        },
+        {
+            "id":1003,
+            "name":"Fanta Naranja",
+            "description":"Fanta Naranja 3lts",
+            "price":2000,
+            "photo":"https://www.peridomicilio.com/images/detailed/7/7441003520158.jpg" 
+            
+        }
+        
     ]
 }
